@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/azaritech/keyboard-listener/issues"
   },
-  "homepage": "https://github.com/azaritech/keyboard-listener#readme"
+  "homepage": "https://github.com/azaritech/keyboard-listener#readme",
+  "dependencies": {
+    "keyboard-discovery": "^1.0.1"
+  }
 }
